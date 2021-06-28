@@ -7,7 +7,8 @@ $(document).ready(function () {
 				'm787316996-7f6b8732055cb6a442d6fb8e',
 				'm788544421-0a378de942958d5027da9621',
 				'm788544427-9d4c51793e903361e96533c9',
-				'm788544432-1e0a06061c611a6b2f1c76b0'
+				'm788544432-1e0a06061c611a6b2f1c76b0',
+				'm788548492-b3e300e9da33a142ebb0141f'
 			],
 			logs: 1,
 			response_times: 1,
